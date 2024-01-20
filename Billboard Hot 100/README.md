@@ -7,4 +7,5 @@
 ### English
 
 &nbsp;&nbsp; File 1-Definicion_EDA_v2.ipynb contains Python code for performing exploratory data analysis
-&nbsp;&nbsp; File   contiene la presentación del análisis exploratorio de datos
+
+&nbsp;&nbsp; File  Billboard_English_unfinished.pptx contains the Powerpoint presentation of the exploratory data analysis
