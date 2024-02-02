@@ -8,4 +8,4 @@
 
 &nbsp;&nbsp; File notebooks/1-Definicion_EDA_v2.ipynb contains Python code for performing exploratory data analysis
 
-&nbsp;&nbsp; File  Billboard_English_unfinished.pptx contains the Powerpoint presentation of the exploratory data analysis. Sorry, it is not translated yet
+&nbsp;&nbsp; File  Billboard_English_unfinished.pptx contains the Powerpoint presentation of the exploratory data analysis. Sorry, it is not fully translated yet
